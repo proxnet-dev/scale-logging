@@ -1,0 +1,9 @@
+{
+  "name": "scale-logging",
+  "version": "1.1.0",
+  "description": "Organized logging for proxnet-scale",
+  "type": "module",
+  "main": "log.mjs",
+  "author": "@ZombieBrine13092 on GitHub, @zombieb on Discord",
+  "license": "ISC"
+}
