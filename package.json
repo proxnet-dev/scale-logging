@@ -5,5 +5,8 @@
   "type": "module",
   "main": "log.mjs",
   "author": "@ZombieBrine13092 on GitHub, @zombieb on Discord",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
 }
